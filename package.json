@@ -1,5 +1,5 @@
 {
-  "name": "bot",
+  "name": "weather_bot",
   "version": "1.0.0",
   "description": "My first bot",
   "main": "index.js",
@@ -12,5 +12,17 @@
     "botbuilder": "^3.3.0",
     "ngrok": "^2.2.3",
     "restify": "^4.1.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandreRgx/WeatherBot.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "bugs": {
+    "url": "https://github.com/AlexandreRgx/WeatherBot/issues"
+  },
+  "homepage": "https://github.com/AlexandreRgx/WeatherBot#readme"
 }
